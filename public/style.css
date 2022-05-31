@@ -1,6 +1,11 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
 body{
   padding-top:80px;
   word-wrap:break-word;
+  background-color: salmon;
 }
 img{
   height: 200px;
